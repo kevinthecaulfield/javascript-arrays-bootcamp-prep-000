@@ -13,4 +13,3 @@ function destructivelyAddElementToBeginningOfArray() {
   return destructive.unshift("'foo'")
   }
 }
-
