@@ -23,6 +23,6 @@ function destructivelyAddElementToEndOfArray(array, element) {
 }
 
 function accessElementInArray(array, element) {
-  array
+  [1, 2, 3]
   console.log(2)
 }
