@@ -9,7 +9,7 @@ function addElementToBeginningOfArray() {
 }
 
 function destructivelyAddElementToBeginningOfArray() {
-  if (destructive = [1]) {
-  return destructive.unshift("'foo'")
+  if (1]) {
+  return unshift("'foo'")
   }
 }
