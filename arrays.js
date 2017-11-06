@@ -5,7 +5,7 @@ var array= "foo"
 var element = 1
 
 function addElementToBeginningOfArray() {
-  return 
+  return
 }
 
 function destructivelyAddElementToBeginningOfArray(array, element) {
