@@ -21,3 +21,8 @@ function destructivelyAddElementToEndOfArray(array, element) {
   array.push(element)
   return array
 }
+
+function accessElementInArray(array, element) {
+  array
+  cosole.log(2)
+}
